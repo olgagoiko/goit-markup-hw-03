@@ -330,11 +330,6 @@ address {
     padding: 100px 0;
 }
 
-.footer-container {
-    display: inline-block; 
-    
-}
-
 .footer-logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -356,11 +351,15 @@ address {
     color: #f4f4fd;
 }
 
+.logo-footer {
+    display: inline-block; 
+    margin-bottom: 16px;
+}
+
 .footer-text {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
     max-width: 264px;
-    margin-top: 16px;
-}
+    }
