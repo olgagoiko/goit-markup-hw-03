@@ -162,6 +162,15 @@ margin-bottom: 188px;
     cursor: pointer;
 }
 
+.solutions-container {
+    padding: 120px;
+}
+
+.solutions-list {
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+}
 
 .solutions-title {
     font-weight: 500;
